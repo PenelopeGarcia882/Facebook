@@ -1,0 +1,44 @@
+body {
+    background: white;
+}
+
+.box-one {
+    /* margin: -28px -28px -28px -28px; */
+    margin-bottom:0px ;
+    background-color: #5480c1;
+    line-height: 1.34;
+    color: #0b0b0b;
+    width: 548px;
+    height: 298.073px;
+    padding-right: 32px   ;
+    
+}
+
+.Logo{
+    margin: -28px;
+    width: 320.94px;
+    height: 106px;
+    padding-top: 112px;
+
+}
+
+.Texto{
+    padding-top: 16px;
+}
+
+.box-tow {
+    width: 396px;
+    height:     314.156px;
+    padding:8px 44px  ;
+    box-sizing: border-box;
+    display: flex;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.Correo{
+    width: 100%;
+    height:     22px;
+    padding: 14px 14px;
+    padding: 16px 16px;
+   
+}
