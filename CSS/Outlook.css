@@ -1,0 +1,74 @@
+body {
+    background: #bfecd2;
+background: radial-gradient(circle,rgb(208, 224, 223) 0%, rgb(227, 241, 213) 100%); 
+}
+
+.bg {
+    background-color: #fff; 
+}
+
+.box-one {
+    /* margin: 20px 100px 50px 150px; */
+    margin-bottom:20px ;
+    width: 440px;
+    height: 338px;
+    padding: 44px   ;
+    box-sizing: border-box;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.box-two {
+    width: 440px;
+    height: 48px;
+    padding:8px 44px  ;
+    box-sizing: border-box;
+    display: flex;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.main-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+    
+}
+
+.Iniciar {
+    font-size: 1.5rem;
+    font-family: 'Segoe UI';
+    color: #1B1B1B;
+    font-weight: 600;
+    margin: 16px 0 12px 0;
+}
+
+.input {
+    border: none;
+    border-bottom: 1px #1B1B1B solid;
+    width: 348px;
+    padding: 6px 10px 6px 0;
+    margin-bottom: 16px;
+}
+
+.input::placeholder {
+    font-family: 'Segoe UI';
+    font-size:0.93rem ;
+    font-weight: 400;
+}
+
+.cree-una {
+    margin-bottom: 16px;
+    font-family: 'Segoe UI';
+    font-size: 0.81rem;
+    font-weight: 400;
+}
+
+a{
+    text-decoration: none;
+    color: #0067b8;
+}
+
+.box-btn {
+    display: flex;
+    justify-content: end;
+}
